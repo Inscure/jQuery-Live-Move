@@ -1,5 +1,5 @@
 jQuery-Live-Move
 ================
 
-Draggable function of jQuery which working with live loaded elements.
+Draggable function for jQuery 1.8+ which working with live loaded elements.
 
