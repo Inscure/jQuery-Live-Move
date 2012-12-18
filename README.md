@@ -6,7 +6,7 @@ Draggable function of jQuery which working with live loaded elements.
 USAGE
 ================
 
-<!DOCTYPE html
+<!DOCTYPE html>
 <html>
   <head>
     <script src=jquery.js></script>
