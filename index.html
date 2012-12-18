@@ -1,14 +1,22 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <meta charset=utf-8>
     <script src=jquery.js></script>
     <script src=jquery-ui.js></script>
     <script src=jquery.draggable.js></script>
+	<style>
+		.live {
+			width:50px;
+			height:50px;
+			background-color: blue;
+		}
+	</style>
     <script>
       $(function() {
             $('#static').liveDraggable({'selector': '.live'});
             $('button[name="generate"]').click(function() {
-              $(this).after('<div class=live style="width:50px; height:50px; background-color: blue; display:block"></div>');
+              $(this).after('<div class=live></div>');
             });
       });
     </script>
@@ -16,7 +24,7 @@
   </head>
   <body>
     <div id=static>
-      <button name=generate value=click></button>
+      <button name=generate>Click</button>
     </div>
   </body>
 </html>
