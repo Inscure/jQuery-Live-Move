@@ -1,4 +1,8 @@
-// Author: Inscure drimer.eco@gmail.com
+/**
+ * @author: 	Inscure
+ * @email: 	drimer.eco@gmail.com
+ * @website:	http://extreme-fusion.pl/
+ */
 
 (function($) {
   $.fn.liveDraggable = function (opts) {
