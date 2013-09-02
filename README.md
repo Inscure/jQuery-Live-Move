@@ -6,4 +6,4 @@ Supports also live loaded elements.
 
 How to use it
 ---------
-[https://github.com/Inscure/jQuery-Live-Move/archive/master.zip](Download) package and see example.html file.
+[Download](https://github.com/Inscure/jQuery-Live-Move/archive/master.zip) package and see example.html file.
