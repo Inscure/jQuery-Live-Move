@@ -1,7 +1,6 @@
 /**
  * @author: 	Inscure
  * @email: 	drimer.eco@gmail.com
- * @website:	http://extreme-fusion.pl/
  */
 
 (function($) {
